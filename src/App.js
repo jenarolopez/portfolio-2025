@@ -5,9 +5,8 @@ import Body from "./layout/Body";
 
 export default function App() {
   return (
-    <div>
+    <div className="bg-slate-900">
       <Body>
-        <MobileNav />
         <LeftColumn />
         <RightColumn />
       </Body>
