@@ -1,8 +1,12 @@
 /** @type {import('tailwindcss').Config} */
+
+const defaultTheme = require("tailwindcss/defaultTheme");
+
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
-    "app/**/*.{ts,tsx}", "components/**/*.{ts,tsx}"
+    "app/**/*.{ts,tsx}",
+    "components/**/*.{ts,tsx}",
   ],
   darkMode: ["class"],
   theme: {
@@ -47,7 +51,12 @@ module.exports = {
         md: `calc(var(--radius) - 2px)`,
         sm: "calc(var(--radius) - 4px)",
       },
+      fontFamily: {
+        // sans: ["InterVariable", ...defaultTheme.fontFamily.sans],
+        inter: ['Inter', 'ui-sans-serif', 'system-ui'],
+        sans: ['Urbanist', 'ui-sans-serif', 'system-ui'],
+      },
     },
   },
   plugins: [require("tailwindcss-animate")],
-}
+};
