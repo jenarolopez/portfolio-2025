@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56fa3217.css",
+    "main.js": "/static/js/main.1be0c08c.js",
+    "static/js/488.9561f9b8.chunk.js": "/static/js/488.9561f9b8.chunk.js",
+    "static/media/dota2-cursor.png": "/static/media/dota2-cursor.6d88317f3d07ec3bb1a3.png",
+    "index.html": "/index.html",
+    "main.56fa3217.css.map": "/static/css/main.56fa3217.css.map",
+    "main.1be0c08c.js.map": "/static/js/main.1be0c08c.js.map",
+    "488.9561f9b8.chunk.js.map": "/static/js/488.9561f9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56fa3217.css",
+    "static/js/main.1be0c08c.js"
+  ]
+}
