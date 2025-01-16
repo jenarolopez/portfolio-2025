@@ -1,11 +1,18 @@
 [
   {
-    "company": "Company 1",
-    "position": "Position 1",
-    "startDate": "2019-01-01",
-    "endDate": "2020-01-01",
-    "description": "Description 1",
-    "highlights": ["Highlight 1", "Highlight 2"]
+    "company": "TOKI Asia",
+    "position": "Full Stack Developer",
+    "startDate": "2024",
+    "endDate": "2025",
+    "link": "https://dev.tokiasia.com",
+    "description": "TOKI Asia is a Singapore-based software development company specializing in digital transformation solutions and custom software development for businesses across Southeast Asia.",
+    "highlights": [
+      "Developed and deployed mobile applications to Play Store and App Store, including full API integration",
+      "Built and maintained scalable APIs and microservices architecture",
+      "Created responsive user interfaces for the company's main website",
+      "Architected and deployed microservices infrastructure using AWS services including RDS, Amplify, EC2, and Load Balancer for improved scalability and performance"
+    ],
+    "techStack": ["React", "React Native", "NestJS", "AWS", "Laravel", "PHP"]
   },
   {
     "company": "Company 2",
@@ -13,7 +20,8 @@
     "startDate": "2020-01-01",
     "endDate": "2021-01-01",
     "description": "Description 2",
-    "highlights": ["Highlight 1", "Highlight 2"]
+    "highlights": ["Highlight 1", "Highlight 2"],
+    "techStack": ["Python", "Django", "PostgreSQL"]
   },
   {
     "company": "Company 3",
@@ -21,6 +29,7 @@
     "startDate": "2021-01-01",
     "endDate": "2022-01-01",
     "description": "Description 3",
-    "highlights": ["Highlight 1", "Highlight 2"]
+    "highlights": ["Highlight 1", "Highlight 2"],
+    "techStack": ["TypeScript", "Next.js", "AWS"]
   }
 ]

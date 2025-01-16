@@ -55,6 +55,7 @@ module.exports = {
         // sans: ["InterVariable", ...defaultTheme.fontFamily.sans],
         inter: ['Inter', 'ui-sans-serif', 'system-ui'],
         sans: ['Urbanist', 'ui-sans-serif', 'system-ui'],
+        lato: ['Lato', 'ui-sans-serif', 'system-ui'],
       },
     },
   },

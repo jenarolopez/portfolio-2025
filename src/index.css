@@ -51,7 +51,7 @@
 
 @layer base {
   * {
-    @apply border-border scroll-smooth font-sans;
+    @apply border-border scroll-smooth;
   }
   body {
     @apply antialiased bg-background text-foreground;
