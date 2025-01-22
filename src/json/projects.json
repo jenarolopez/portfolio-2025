@@ -1,0 +1,26 @@
+[
+    {
+        "thumbnail": "https://via.placeholder.com/150",
+        "title": "Project 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "https://www.google.com"
+    },
+    {
+        "thumbnail": "https://via.placeholder.com/150",
+        "title": "Project 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "https://www.google.com"
+    },
+    {
+        "thumbnail": "https://via.placeholder.com/150",
+        "title": "Project 3",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "https://www.google.com"
+    },
+    {
+        "thumbnail": "https://via.placeholder.com/150",
+        "title": "Project 4",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "https://www.google.com"
+    }
+]
