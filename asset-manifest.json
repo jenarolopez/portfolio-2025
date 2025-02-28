@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-2025/static/css/main.4f8adf8c.css",
-    "main.js": "/portfolio-2025/static/js/main.726d217b.js",
+    "main.css": "/portfolio-2025/static/css/main.d9acb4c1.css",
+    "main.js": "/portfolio-2025/static/js/main.cd96f5d1.js",
     "static/js/488.9561f9b8.chunk.js": "/portfolio-2025/static/js/488.9561f9b8.chunk.js",
+    "static/media/sos-web.png": "/portfolio-2025/static/media/sos-web.0e9b37e0d12572f586ce.png",
+    "static/media/resume.pdf": "/portfolio-2025/static/media/resume.2a2d930e3785af7bfa99.pdf",
+    "static/media/sos-logo.png": "/portfolio-2025/static/media/sos-logo.540914060f59ddc1b9dd.png",
     "static/media/dota2-cursor.png": "/portfolio-2025/static/media/dota2-cursor.6d88317f3d07ec3bb1a3.png",
+    "static/media/ticketnation.png": "/portfolio-2025/static/media/ticketnation.23ee505844860e30db93.png",
+    "static/media/toki-logo-white.svg": "/portfolio-2025/static/media/toki-logo-white.9c08f8c5aa96d80e03c2ab478de987f0.svg",
     "index.html": "/portfolio-2025/index.html",
-    "main.4f8adf8c.css.map": "/portfolio-2025/static/css/main.4f8adf8c.css.map",
-    "main.726d217b.js.map": "/portfolio-2025/static/js/main.726d217b.js.map",
+    "main.d9acb4c1.css.map": "/portfolio-2025/static/css/main.d9acb4c1.css.map",
+    "main.cd96f5d1.js.map": "/portfolio-2025/static/js/main.cd96f5d1.js.map",
     "488.9561f9b8.chunk.js.map": "/portfolio-2025/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f8adf8c.css",
-    "static/js/main.726d217b.js"
+    "static/css/main.d9acb4c1.css",
+    "static/js/main.cd96f5d1.js"
   ]
 }
