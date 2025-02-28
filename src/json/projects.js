@@ -1,7 +1,8 @@
 
 import tnLogo from '../assets/ticketnation.png'
 import tokilogoWhite from '../assets/toki-logo-white.svg'
-
+import sosLogo from '../assets/sos-logo.png'
+import sosWeb from '../assets/sos-web.png'
 const project = [
     {
         "thumbnail": tnLogo,
@@ -22,10 +23,16 @@ const project = [
         "link": "https://www.tokiasia.com/"
     },
     {
-        "thumbnail": "https://via.placeholder.com/150",
-        "title": "Project 4",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link": "https://www.google.com"
+        "thumbnail": sosLogo,
+        "title": "S.O.Search Mobile",
+        "description": "SOSearch is a dating application catering to young adults and adults in the USA, available on both mobile and web platforms. It offers a wide range of features resembling those of a social media platform, including chat, video calls, and typical functionalities found in other dating apps.",
+        "link": "_blank"
+    },
+    {
+        "thumbnail": sosWeb,
+        "title": "S.O.Search Website",
+        "description": "SOSearch is a dating application catering to young adults and adults in the USA, available on both mobile and web platforms. It offers a wide range of features resembling those of a social media platform, including chat, video calls, and typical functionalities found in other dating apps.",
+        "link": "_blank"
     }
 ]
 

@@ -6,10 +6,10 @@ const RightColumn = () => {
     <div className="pt-24 lg:w-[52%] lg:py-24" id="right-column">
       <About />
       <WorkexperienceCard />
-
+     
       <Projects />
 
-      <section id="contact relative">
+      <section aria-label="Projects" id="contact">
         <h2 className="text-2xl font-bold mb-4 font-lato">Get In Touch</h2>
         <p>
           I'm always open to new opportunities and collaborations. Feel free to
@@ -18,7 +18,7 @@ const RightColumn = () => {
             href="mailto:your.email@example.com"
             className="text-[#1B998B] hover:underline"
           >
-            your.email@example.com
+            jenarosalvadorlopez@gmail.com
           </a>
           .
         </p>
