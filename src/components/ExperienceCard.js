@@ -8,7 +8,7 @@ const ExperienceCard = ({ job }) => {
         
         <header
           className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
-          aria-label="2024 to Present"
+          aria-label={`${job.startDate}-${job.endDate}`}
         >
           {job.startDate} — {job.endDate}
         </header>
@@ -21,7 +21,7 @@ const ExperienceCard = ({ job }) => {
                 href={job?.link}
                 target="_blank"
                 rel="noreferrer noopener"
-                aria-label="Senior Frontend Engineer, Accessibility at Klaviyo (opens in a new tab)"
+                aria-label={`${job.position} (opens in a new tab)`}
               >
                 <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block" />
                 <span>

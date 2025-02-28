@@ -64,30 +64,6 @@
     ]
   },
   {
-    "company": "The BOX - Software Dev. Ltd. ",
-    "position": "Software Engineer Freelancer",
-    "link": "https://web.facebook.com/TBSDL",
-    "startDate": "2022",
-    "endDate": "2023",
-    "description": "A professional IT services company providing custom software solutions for small to medium-sized businesses, specializing in web and mobile development with a team of skilled freelance developers.",
-    "highlights": [
-      "Developed a facial recognition mobile application using React Native, enhancing security and authentication capabilities",
-      "Built and maintained a loan management system using Laravel, implementing features like automated payment tracking and user management",
-      "Successfully deployed and managed Laravel applications on Linode Linux servers, including server configuration and SSL setup",
-      "Maintained and optimized product content management system using CodeIgniter framework"
-    ],
-    "techStack": [
-      "React",
-      "React Native",
-      "CodeIgniter",
-      "TypeScript",
-      "Laravel",
-      "PHP",
-      "Linode",
-      "Linux"
-    ]
-  },
-  {
     "company": "Pro-Solutions Technology",
     "position": "Web and Mobile Developer",
     "startDate": "2021",
@@ -110,6 +86,30 @@
       "Docker",
       "Digital Ocean",
       "TypeScript"
+    ]
+  },
+  {
+    "company": "The BOX - Software Dev. Ltd. ",
+    "position": "Web Developer Freelancer",
+    "link": "https://web.facebook.com/TBSDL",
+    "startDate": "2020",
+    "endDate": "2021",
+    "description": "A professional IT services company providing custom software solutions for small to medium-sized businesses, specializing in web and mobile development with a team of skilled freelance developers.",
+    "highlights": [
+      "Developed a facial recognition mobile application using React Native, enhancing security and authentication capabilities",
+      "Built and maintained a loan management system using Laravel, implementing features like automated payment tracking and user management",
+      "Successfully deployed and managed Laravel applications on Linode Linux servers, including server configuration and SSL setup",
+      "Maintained and optimized product content management system using CodeIgniter framework"
+    ],
+    "techStack": [
+      "React",
+      "React Native",
+      "CodeIgniter",
+      "TypeScript",
+      "Laravel",
+      "PHP",
+      "Linode",
+      "Linux"
     ]
   }
 ]
